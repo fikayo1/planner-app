@@ -1,7 +1,7 @@
 # Planner App
 
 The Planner App is a web application designed to help users organize and manage their schedules, tasks, and events efficiently. It provides a user-friendly interface and various features to assist users in planning their day-to-day activities effectively.
-[https://fikayo-planner-app.netlify.app/]Deployed Link
+[https://fikayo-planner-app.netlify.app/] Deployed Link
 ## Features
 
 - **Planner:** Create, update, and manage tasks and events in a customizable planner interface.
