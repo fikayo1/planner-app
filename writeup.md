@@ -11,7 +11,7 @@ It provides a seamless and convenient way to stay informed about the weather whi
 ## How to Use the Weather Widget
 
 1. Open the planner app.
-2. Click on "Add Widget" app's interface.
+2. Click on "Add Widget" or the "+" icon in app's interface.
 3. Click from the list of widgets the Weather
 4. The widget will automatically fetch the user's location using geolocation.
 5. Once the location is obtained, the widget will display the current weather information, including temperature, humidity, and weather condition.
